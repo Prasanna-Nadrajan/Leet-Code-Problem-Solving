@@ -47,8 +47,8 @@ leetcode-problem-solving/
 |------------|-------|
 | Easy       | 24    |
 | Medium     | 2     |
-| Hard       | 0     |
-| **Total**  | 26    |
+| Hard       | 1     |
+| **Total**  | 27    |
 
 ## 💡 How to Use
 
