@@ -45,10 +45,10 @@ leetcode-problem-solving/
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 35    |
-| Medium     | 14    |
-| Hard       | 3     |
-| **Total**  | 52    |
+| Easy       | 36    |
+| Medium     | 17    |
+| Hard       | 4     |
+| **Total**  | 57    |
 
 ## 💡 How to Use
 
