@@ -45,9 +45,9 @@ leetcode-problem-solving/
 
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 53    |
-| Medium     | 40    |
-| Hard       | 9     |
+| Easy       | 62    |
+| Medium     | 46    |
+| Hard       | 10    |
 | **Total**  | 102   |
 
 ## 💡 How to Use
